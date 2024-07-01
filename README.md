@@ -4,6 +4,16 @@
 ## Project Overview
      This is a web application for a food delivery service built using React, MongoDB Atlas, Express, Node.js, HTML, CSS, and Javascript. Develop a application that will allow customers to place their food order online and provide them with feedback, a generic image of the meal, a list of side dishes, main course ingredients, and cost information.
 
+## Content-Table 
+   -project title
+   -project overview
+   -About Author
+   -features
+   -Technology Used
+   -Getting Started
+   -Contributing
+   -Contact
+  
 
 ## Authors
    **Training project (Batch-1)**
@@ -105,6 +115,11 @@ We welcome contributions to HomeHeaven! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
+
+
+## Contact
+ Email : akhilsachan274@gamil.com
+ Linkdin : https://www.linkedin.com/in/akhil-sachan-b0a30b304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
