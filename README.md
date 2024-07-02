@@ -12,7 +12,8 @@
    **Training project (Batch-1)**
 
 - **Akhil Sachan**
-  - Roll Number: 22015002414
+  - Roll Number: 64
+  - Email: akhilsachan274@gmail.com
 
 
 
@@ -64,36 +65,36 @@ Ensure you have the following installed:
    git clone https://github.com/akhilsachan274/food_delivery.git
    ```
 
-2. Install the dependencies for both the client and server:
+2. Install the dependencies for both the frontend and backend:
    ```bash
-   cd client
+   cd frontend
    npm install
-   cd ../server
+   cd ../backend
    npm install
    ```
 
 3. Set up environment variables:
 
-   Create a `.env` file in the `server` directory and add your MongoDB URI and JWT secret:
+   Create a `.env` file in the `frontend` directory and add your MongoDB URI and JWT secret:
 
    ```plaintext
    MONGODB_URI=your_mongodb_uri
    JWT_SECRET=your_jwt_secret
    ```
 
-   Create a `.env` file in the `client` directory and add your Firebase configurati
+   Create a `.env` file in the `backend` directory and add your Firebase configuration
 
 ### Running the Application
 
 1. Start the backend server:
    ```bash
-   cd server
+   cd frontend
    npm run server
    ```
 
 2. Start the frontend development server:
    ```bash
-   cd client
+   cd backend
    npm run dev
    ```
 
